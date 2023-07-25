@@ -9,3 +9,4 @@ delivery service. This system allows the user to select the desired food items f
 made online or pay-on-delivery system. The user’s details are maintained confidential because it maintains a separate account for each user. An id and 
 password is provided for each user. Therefore it provides a more secured ordering.
 
+#Platform_Used : PHP, HTML, CSS, JavaScript Database : MySQL Contribution : Analysis, Designing and Coding Team Size : 1 Duration : 6 month (May 2018 to Nov 2018) OS : Windows 8.1 Tool Used : SUBLIME, XAMPP SERVER
